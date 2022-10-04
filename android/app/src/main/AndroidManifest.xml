@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bush_market">
    <application
-        android:label="bush_market"
+        android:label="Bush Market"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
